@@ -2,7 +2,7 @@
 
 DownloaderX is a GUI-based tool for downloading files from the internet with options to pause, resume, and adjust the download speed. It is built using Python's `tkinter` for the GUI and `requests` for handling HTTP requests.
 
-## Features
+## Features :
 
 - **Download files from a URL**: Enter the URL of the file you want to download and start the download process.
 - **Pause and Resume**: You can pause and resume the download at any point.
